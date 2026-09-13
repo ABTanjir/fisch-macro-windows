@@ -6,9 +6,6 @@
 
 <p>A Fisch macro automates repeated fishing inputs in Roblox. Auto-catch and auto-reel workflows bring together screen recognition, input timing and controls for starting or stopping a session. Begin with the display layout and the rod you actually use.</p>
 
-<p><strong>🧭 On this page</strong><br>
-<a href="#section-1">🎯 Before the first cast</a> &nbsp; · &nbsp; <a href="#section-2">📦 Install the Windows package</a> &nbsp; · &nbsp; <a href="#section-3">🛟 Calibrate around the failure</a> &nbsp; · &nbsp; <a href="#section-4">⚙️ Macro, script, or fishing calculator?</a> &nbsp; · &nbsp; <a href="#section-5">🎯 Fisch auto catch and auto reel: why does the macro miss?</a></p>
-
 <p align="left"><img src="https://img.shields.io/badge/Windows-225EA8?style=for-the-badge" alt="Windows" height="26">
 <img src="https://img.shields.io/badge/Fisch%20macro-087F8C?style=for-the-badge" alt="Fisch macro" height="26">
 <img src="https://img.shields.io/badge/Community%20package-59636E?style=for-the-badge" alt="Community package" height="26"></p>
